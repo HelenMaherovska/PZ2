@@ -1,0 +1,2 @@
+C:\Users\admin\Desktop\KursovaProject\Refactor\Refactor\bin\Debug\Refactor.exe.config
+D:\Програмне забезпечення 3курс\Refactor\Refactor\bin\Debug\Refactor.exe.config
